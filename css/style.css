@@ -105,7 +105,7 @@ body {
     align-items: center;
     background-image: url(../img/header-bg3.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     position: relative;
     color: black;
 }
