@@ -372,6 +372,8 @@ body {
     font-size: 1.5rem;
     padding: 5px 20px;
     text-align: center;
+    align-item: center;
+    justify-content: center;
 }
 
 .support .grid-container-sup .card-img-sup {
