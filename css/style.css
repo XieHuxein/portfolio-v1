@@ -141,6 +141,7 @@ body {
     color: #fff;
     margin-top: 1rem;
     line-height: 1.4;
+    text-align: left;
     font-weight: 100;
     text-shadow: 1px 1px 3px rgba(48, 48, 48, 0.5);
     /* mix-blend-mode: difference; */
@@ -250,15 +251,15 @@ body {
 .project .grid-container {
     /* width: 70%; */
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10rem;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 4rem;
     margin: auto;
 }
 
 .project .grid-container .card {
     background-color: #1456ad00;
     border: 1px solid #dddddd00;
-    padding: 10px;
+    padding: 0.8rem;
     text-align: center;
     border-radius: 20px;
     transition: all 0.5s 0.1s linear;
@@ -281,8 +282,8 @@ body {
 
 .project .grid-container .card-details p {
     font-size: 1.5rem;
-    padding: 5px 20px;
-    text-align: center;
+    padding: 1rem 2rem;
+    text-align: left;
 }
 
 .project .grid-container .card-img {
@@ -564,7 +565,7 @@ footer .credit a span {
     .project .grid-container .card-details p {
         font-size: 1.5rem;
         padding: 20px 20px;
-        text-align: justify;
+        text-align: left;
     }
 
     .project .grid-container .card-img {
