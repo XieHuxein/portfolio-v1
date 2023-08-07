@@ -5,7 +5,7 @@ Welcome to my personal web portfolio! This is the place where I share projects, 
 # About Me
 
 Name: At'Thoriq Huseini Subakuh
-Occupation: -
+Occupation: 
 Location: Bekasi,West Java,Indonesia
 Contact: thoriqhuseini15@gmail.com
 Website: xiehuxein.github.io
