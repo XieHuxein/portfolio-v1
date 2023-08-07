@@ -8,7 +8,7 @@ Welcome to my personal web portfolio! This is the place where I share projects, 
 - Occupation: 
 - Location: Bekasi,West Java,Indonesia
 - Contact: thoriqhuseini15@gmail.com
-- Website: xiehuxein.github.io
+- Website: https://xiehuxein.github.io
 
 # Recent Projects
 
