@@ -49,6 +49,8 @@ The Simple PHP Calculator is a basic web application developed solely using PHP 
 
 - **PHP**: The core programming language used to implement the calculator's logic and calculations.
 
+- **HTML/CSS**: Frontend development for creating the user interface and styling.
+
 ## Simple Reservation System with PHP and JSON
 
 The Simple Reservation System is a straightforward web application built using PHP and JSON to facilitate basic reservation management. This application showcases how PHP can interact with JSON data to create, view, and manage reservations.
@@ -64,3 +66,5 @@ The Simple Reservation System is a straightforward web application built using P
 - **PHP**: The core programming language used to implement the reservation system's logic and functionality.
 
 - **JSON**: JSON is used to store and manage reservation data in a structured format.
+
+- **HTML/CSS**: Frontend development for creating the user interface and styling.
